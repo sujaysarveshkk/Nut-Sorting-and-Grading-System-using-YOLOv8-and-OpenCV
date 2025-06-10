@@ -1,0 +1,8 @@
+train: C:/Users/matha/Downloads/B0187/Almond_Dataset/train/images
+val: C:/Users/matha/Downloads/B0187/Almond_Dataset/valid/images
+test:  # (Leave blank or add test images if available)
+
+nc: 4  # Number of classes
+names: ["grade1", "grade2", "grade3", "grade4"]  # Replace with actual class names
+
+
